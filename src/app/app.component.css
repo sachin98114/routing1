@@ -1,0 +1,9 @@
+#ul{
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+   list-style: none;
+    /* justify-items: ; */
+    justify-content: space-between;
+    align-items: center;
+}
